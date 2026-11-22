@@ -2,6 +2,9 @@
 
 API REST desenvolvida em Python utilizando **FastAPI** e **Redis** para gerenciamento de produtos. O projeto implementa as operações CRUD (Create, Read, Update e Delete), validação de dados, tratamento de erros, persistência e testes automatizados.
 
+
+
+
 ## Tecnologias utilizadas
 
 - **Python 3.14** — linguagem de programação.
